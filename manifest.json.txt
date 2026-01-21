@@ -1,0 +1,12 @@
+{
+  "name": "Conveyor Display",
+  "version": "87.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
